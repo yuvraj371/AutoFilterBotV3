@@ -1,7 +1,7 @@
 # Bot information
 SESSION = 'LuciferMoringstar_Robot'
 USER_SESSION = 'User_Bot'
-API_ID = 23104044
+API_ID = '23104044'
 API_HASH = 'f02a56885f32a83417b2b266d18473a8'
 BOT_TOKEN = '6388550170:AAHIXJZAN2tgAbhDYrFIE5ectAgNdu7YZIY'
 USERBOT_STRING_SESSION = 'LuciferMoringstar_Robot'
